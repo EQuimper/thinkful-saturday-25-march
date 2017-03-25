@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Hello World",
+      "author": "Emanuel",
+      "id": 2
+    },
+    {
+      "title": "Hello again",
+      "author": "Emanuel",
+      "id": 3
+    },
+    {
+      "title": "Hello Hello",
+      "author": "Bob",
+      "id": 4
+    },
+    {
+      "title": "Hello HelloHello",
+      "author": "Adele",
+      "id": 5
+    }
+  ]
+}
